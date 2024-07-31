@@ -161,7 +161,7 @@ The following test deliverables will be provided by the end of the testing proce
 
 3.3 Test cases
 
-
+[Twitter social media platform Jira_Test_Cases](https://github.com/tuguiflorin/Jira_Manual_Testing/blob/main/Jira_TestCases.pdf)
 
 
 4. Schedule
