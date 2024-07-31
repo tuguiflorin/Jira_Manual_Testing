@@ -9,6 +9,7 @@
 | 03.08.2024 |    Added more details for 2.4 Test Implementation    |   Ioana Popescu |   Test Plan version 1.1 |
 
 Table of Content:
+***
 1. Introduction
    - 1.1 Project objective
    - 1.2 Functionalities in scope
@@ -32,7 +33,9 @@ Table of Content:
    - 3.7	 Bugs report
    - 3.8	Test completion report
 4. Schedule
-<p><br>   
+
+***
+<p><br>
 1. Introduction
 
 This document describes the test plan for the Twitter integration feature. The goal is to ensure that the integration works seamlessly, allowing users to authenticate, post tweets, read tweets, and handle errors appropriately.
@@ -65,6 +68,7 @@ Application documentation:
 -	Other browsers except Chrome and Mozilla are out of scope
 -	Automation testing is beyond scope 
 
+***
 2.	Test process
 
 2.1  Test planning
@@ -127,6 +131,7 @@ Product risks:
 2.7 Test monitoring and control 
 - In this phase various periodic reports will be generated to reflect the current status of the testing process. In case of major problems, control measures could be taken. 
 
+***
 3.	Test deliverables
 
 The following test deliverables will be provided by the end of the testing process and sent to the stakeholders in order to create the basis of informed decision:
@@ -177,20 +182,48 @@ Test case: Verify in we can login in the Twitter account.
 - Expected Result
     - Log-in in the Twitter account is a successfully
 
+***
 3.4 Daily test summary report
 ![DailyTestExecutionProgress](https://github.com/tuguiflorin/Jira_Manual_Testing/blob/main/DailyTestExecutionProgress.png)
 
+***
 3.5 Traceability matrix
 ![ForwardTraceability](https://github.com/tuguiflorin/Jira_Manual_Testing/blob/main/TraceabilityMatrix.png)
 
+***
+3.6 Bugs report
 
+[Twitter social media platform Jira_Bugs](https://github.com/tuguiflorin/Jira_Manual_Testing/blob/main/Jira_Bugs.pdf)
 
+1. Delete a post
+- Preconditions:
+    - Connect your device to the Internet
+    - Twitter main account created
+    - Post already shared
+- Reproduction steps:
+    - Go to https://twitter.com/ and click "Log in"
+    - Enter your phone, email, or username and the password
+    - In the top menu, tap your profile icon
+    - Locate the post you want to delete
+    - Tap the icon located at the top of the post
+    - Tap Delete post
+- Expected result:
+    - Successfully deleted post
+- Actual result:
+    - An error is displayed, Deleting specifing post is failed.
 
+3.7 Test completion report
 
+From testing, it can be concluded that the social media platform Twitter is robust and functional, but there are a few key areas that need improvement, especially in terms of performance under heavy load, accessibility, and security.
+After going through the 6 user stories, creating and running the 20 tests, the 6 bugs reported were mostly minor and easy to fix, but a few persistent issues require additional attention.
+
+No critical flaws have been identified that prevent the platform from working, but there are some issues that could affect the user experience in the long run.
+***
 <p><br> 
 4. Schedule
--	The testing process will take place over a period of 1.5 months and will involve all the activities defined in the previous section
--	All the resources will be adapted accordingly in case new testing resources are detected as necessary
+
+- The testing process will take place over a period of 1.5 months and will involve all the activities defined in the previous section
+- All the resources will be adapted accordingly in case new testing resources are detected as necessary
 
 
 
