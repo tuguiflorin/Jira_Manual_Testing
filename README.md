@@ -142,6 +142,7 @@ The following test deliverables will be provided by the end of the testing proce
 
 3.1 Test plan 
 
+Link catre fisier [Twitter Test Plan](https://github.com/tuguiflorin/Jira_Manual_Testing/blob/main/Test_Plan.pdf)
 
 
 
