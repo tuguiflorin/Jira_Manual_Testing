@@ -163,7 +163,31 @@ The following test deliverables will be provided by the end of the testing proce
 
 [Twitter social media platform Jira_Test_Cases](https://github.com/tuguiflorin/Jira_Manual_Testing/blob/main/Jira_TestCases.pdf)
 
+1.   Accessing the registration page
 
+Test case: Verify in we can login in the Twitter account.
+- Preconditions:
+    - Connect your device to the Internet
+    - Twitter main account created
+- Reproduction Steps
+    - Go to https://twitter.com/ and click "Log in"
+    - Click Log in. This can be found at the bottom of the page, next to Sign up.
+    - Enter your phone, email, or username.
+    - Enter your password and click Log in
+- Expected Result
+    - Log-in in the Twitter account is a successfully
+
+3.4 Daily test summary report
+![DailyTestExecutionProgress](https://github.com/tuguiflorin/Jira_Manual_Testing/blob/main/DailyTestExecutionProgress.png)
+
+3.5 Traceability matrix
+![ForwardTraceability]()
+
+
+
+
+
+<p><br> 
 4. Schedule
 -	The testing process will take place over a period of 1.5 months and will involve all the activities defined in the previous section
 -	All the resources will be adapted accordingly in case new testing resources are detected as necessary
