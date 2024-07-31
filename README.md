@@ -142,7 +142,17 @@ The following test deliverables will be provided by the end of the testing proce
 
 3.1 Test plan 
 
-Link catre fisier [Twitter social media platform Test Plan](https://github.com/tuguiflorin/Jira_Manual_Testing/blob/main/Test_Plan.pdf)
+[Twitter social media platform Test Plan](https://github.com/tuguiflorin/Jira_Manual_Testing/blob/main/Test_Plan.pdf)
+
+3.2 Test conditions
+- Functional Test Conditions:
+    - Login Functionality: Verify that the user can log in with valid credentials.
+    - Data Entry: Ensure that the user can successfully add a new record to the database.
+    - Search Feature: Confirm that the search functionality returns accurate results based on user input.
+- Non-Functional Test Conditions:
+    - Performance: Test the application’s response time under heavy load.
+    - Security: Validate that unauthorized users cannot access restricted areas of the application.
+    - Usability: Ensure that the user interface is intuitive and easy to navigate.
 
 
 
