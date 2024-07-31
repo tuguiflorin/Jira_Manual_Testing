@@ -181,7 +181,7 @@ Test case: Verify in we can login in the Twitter account.
 ![DailyTestExecutionProgress](https://github.com/tuguiflorin/Jira_Manual_Testing/blob/main/DailyTestExecutionProgress.png)
 
 3.5 Traceability matrix
-![ForwardTraceability]()
+![ForwardTraceability](https://github.com/tuguiflorin/Jira_Manual_Testing/blob/main/TraceabilityMatrix.png)
 
 
 
