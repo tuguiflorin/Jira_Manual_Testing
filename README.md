@@ -153,7 +153,11 @@ The following test deliverables will be provided by the end of the testing proce
     - Performance: Test the application’s response time under heavy load.
     - Security: Validate that unauthorized users cannot access restricted areas of the application.
     - Usability: Ensure that the user interface is intuitive and easy to navigate.
-
+- Boundary Conditions:
+    - Boundary Values: Test input fields with boundary values, such as maximum and minimum limits.
+    - Edge Cases: Verify the system's behavior with edge cases, like empty inputs or extremely large inputs.
+- Negative Test Conditions:
+    - Invalid data entry and error handling check.
 
 
 
